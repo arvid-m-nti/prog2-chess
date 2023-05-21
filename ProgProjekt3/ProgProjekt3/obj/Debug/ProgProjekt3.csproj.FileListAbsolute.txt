@@ -1,0 +1,10 @@
+C:\Users\arvid.maxvall\source\repos\ProgProjekt3\ProgProjekt3\bin\Debug\ProgProjekt3.exe.config
+C:\Users\arvid.maxvall\source\repos\ProgProjekt3\ProgProjekt3\bin\Debug\ProgProjekt3.exe
+C:\Users\arvid.maxvall\source\repos\ProgProjekt3\ProgProjekt3\bin\Debug\ProgProjekt3.pdb
+C:\Users\arvid.maxvall\source\repos\ProgProjekt3\ProgProjekt3\obj\Debug\ProgProjekt3.csprojAssemblyReference.cache
+C:\Users\arvid.maxvall\source\repos\ProgProjekt3\ProgProjekt3\obj\Debug\ProgProjekt3.Form1.resources
+C:\Users\arvid.maxvall\source\repos\ProgProjekt3\ProgProjekt3\obj\Debug\ProgProjekt3.Properties.Resources.resources
+C:\Users\arvid.maxvall\source\repos\ProgProjekt3\ProgProjekt3\obj\Debug\ProgProjekt3.csproj.GenerateResource.cache
+C:\Users\arvid.maxvall\source\repos\ProgProjekt3\ProgProjekt3\obj\Debug\ProgProjekt3.csproj.CoreCompileInputs.cache
+C:\Users\arvid.maxvall\source\repos\ProgProjekt3\ProgProjekt3\obj\Debug\ProgProjekt3.exe
+C:\Users\arvid.maxvall\source\repos\ProgProjekt3\ProgProjekt3\obj\Debug\ProgProjekt3.pdb
